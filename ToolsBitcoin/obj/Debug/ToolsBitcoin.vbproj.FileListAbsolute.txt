@@ -1,0 +1,80 @@
+c:\users\cookie\documents\visual studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.exe
+c:\users\cookie\documents\visual studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.pdb
+c:\users\cookie\documents\visual studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.xml
+c:\users\cookie\documents\visual studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.Resources.resources
+c:\users\cookie\documents\visual studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.vbproj.GenerateResource.Cache
+c:\users\cookie\documents\visual studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.exe
+c:\users\cookie\documents\visual studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.xml
+c:\users\cookie\documents\visual studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.pdb
+c:\users\cookie\documents\visual studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.Form1.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.Form2.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.note_update.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.about.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.exe.config
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.setting.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.chat.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.coinstatus.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.btcstatus.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.cal.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.coinmarket_trade.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.coinmarket_2.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.menu_coinmarket.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.test01.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.popup1.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.wallet.resources
+C:\Users\COOKIE\Documents\Visual Studio 2012\Projects\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.pool.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.exe.config
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.exe
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.xml
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.pdb
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.exe
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.pdb
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.xml
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.about.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.btcstatus.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.cal.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.chat.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.coinmarket_2.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.coinmarket_trade.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.coinstatus.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.Form1.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.Form2.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.menu_coinmarket.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.Resources.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.note_update.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.pool.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.popup1.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.setting.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.test01.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.wallet.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.vbproj.GenerateResource.Cache
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.reward.resources
+D:\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.test.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.exe.config
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.exe
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.xml
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.pdb
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.exe
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.pdb
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\bin\Debug\ToolsBitcoin.xml
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.about.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.btcstatus.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.bx1.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.cal.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.chat.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.coinmarket_2.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.coinmarket_trade.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.coinstatus.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.Form1.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.Form2.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.menu_coinmarket.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.Resources.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.note_update.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.pool.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.popup1.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.reward.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.setting.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.test.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.test01.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.wallet.resources
+F:\New folder (2)\project\vb\ToolsBitcoin\ToolsBitcoin\obj\Debug\ToolsBitcoin.vbproj.GenerateResource.Cache
